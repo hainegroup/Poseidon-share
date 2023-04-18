@@ -1,8 +1,12 @@
 # Poseidon-share
-This is a repository to share notebooks, documents, code, etc, regarding the Poseidon project.
+This is a repository to share notebooks, documents, code, etc, regarding the Poseidon project. Run these notebooks on SciServer using the Oceanography image.
 
-`gallery` contains notebooks to make cool figures using SciServer, OceanSpy, and Poseidon project datasets. For high-resolution results, change the parameters from "test" to "production" values and prepare to wait.
+`Gallery` contains notebooks to make cool figures using SciServer, OceanSpy, and Poseidon project datasets. For high-resolution results, change the parameters from "test" to "production" values and prepare to wait.
 
-`img` contains images for the notebooks.
+`OceInterp` contains demonstration notebooks for the interpolation and Lagrangian particle package.
 
-`test_data` contains observation datafiles for `LLC90_SciServer_tutorial.ipynb`.
+`OceanSpy` contains demonstration notebooks to use various Poseidon-project datasets on SciServer using the OceanSpy package.
+
+`OceanSpy/img` contains images for the notebooks.
+
+`OceanSpy/test_data` contains observation datafiles for `LLC90_SciServer_tutorial.ipynb`.
