@@ -1,8 +1,5 @@
-*.pyc
-*.npy
-*.png
-*.jpg
 *.pdf
+*.npy
 *.grd
 *checkpoint*
 
