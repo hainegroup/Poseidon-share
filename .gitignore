@@ -1,0 +1,8 @@
+*.pyc
+*.npy
+*.png
+*.jpg
+*.pdf
+*.grd
+*checkpoint*
+
