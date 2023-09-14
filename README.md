@@ -3,8 +3,6 @@ This is a repository to share notebooks, documents, code, etc, regarding the [Po
 
 `Gallery` contains notebooks to make cool figures using SciServer, OceanSpy, and Poseidon project datasets. For high-resolution results, change the parameters from "test" to "production" values and prepare to wait.
 
-`OceInterp` contains demonstration notebooks for the [OceInterp](https://github.com/MaceKuailv/OceInterp) interpolation and Lagrangian particle package.
-
 `OceanSpy` contains demonstration notebooks to use various Poseidon-project datasets on SciServer using the [OceanSpy](https://oceanspy.readthedocs.io/en/latest/) package.
 
 `OceanSpy/img` contains images for the notebooks.
