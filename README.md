@@ -1,5 +1,5 @@
 # Poseidon-share
-This is a repository to share notebooks, documents, code, etc, regarding the [Poseidon](https://www.poseidon-ocean.net/) project. Run these notebooks on [SciServer](https://sciserver.org/) using the Oceanography image.
+This is a repository to share notebooks, documents, code, etc, regarding the [Poseidon](https://www.poseidon-ocean.net/) project. 
 
 `Gallery` contains notebooks to make cool figures using SciServer, OceanSpy, and Poseidon project datasets. For high-resolution results, change the parameters from "test" to "production" values and prepare to wait.
 
@@ -8,3 +8,9 @@ This is a repository to share notebooks, documents, code, etc, regarding the [Po
 `OceanSpy/img` contains images for the notebooks.
 
 `OceanSpy/test_data` contains observation datafiles for `LLC90_SciServer_tutorial.ipynb`.
+
+Run the `Gallery` and `OceanSpy` notebooks on [SciServer](https://sciserver.org/) using the Oceanography image.
+
+June 2025: `Grendel` contains demonstration notebooks to access the LLC4320 dataset.
+
+Run the `Grendel` notebooks on [SciServer](https://sciserver.org/) using the `Grendel` domain.
