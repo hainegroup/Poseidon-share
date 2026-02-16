@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Poseidon-share
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Haine
+    affiliation: Johns Hopkins University
+    orcid: 'https://orcid.org/0000-0001-8231-2419'
+    email: Thomas.Haine@jhu.edu
+repository-code: 'https://github.com/hainegroup/Poseidon-share'
+url: 'https://github.com/hainegroup'
+repository: 'https://www.poseidon-ocean.net/'
+abstract: >-
+  This is a repository to share notebooks, documents, code,
+  etc, regarding the Poseidon project.
+keywords:
+  - ocean model
+  - data analysis
+  - Python
+license: MIT
