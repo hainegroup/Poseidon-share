@@ -11,6 +11,6 @@ This is a repository to share notebooks, documents, code, etc, regarding the [Po
 
 Run the `Gallery` and `OceanSpy` notebooks on [SciServer](https://sciserver.org/) using the Oceanography image.
 
-June 2025: `Grendel` contains demonstration notebooks to access the LLC4320 dataset.
+June 2025: `Kraken` contains demonstration notebooks to access the LLC4320 dataset.
 
-Run the `Grendel` notebooks on [SciServer](https://sciserver.org/) using the `Grendel` domain.
+Run the `Kraken` notebooks on [SciServer](https://sciserver.org/) using the `Kraken` domain.
