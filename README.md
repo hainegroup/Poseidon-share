@@ -12,5 +12,6 @@ This is a repository to share notebooks, documents, code, etc, regarding the [Po
 Run the `Gallery` and `OceanSpy` notebooks on [SciServer](https://sciserver.org/) using the Oceanography image.
 
 June 2026: `Kraken` contains demonstration notebooks to access the LLC4320 dataset and the DYAMOND dataset.
+July 2026: Add and update notebooks to demonstrate interface to Poseidon viewer
 
 Run the `Kraken` notebooks on [SciServer](https://sciserver.org/) using the `Kraken` domain.
